@@ -35,14 +35,14 @@ How to Use
 1. VBScript File (keyboard.vbs)
    - Double-click to execute.
    - Alternatively, run from the command line with:
-     cscript keyboard.vbs
-
+   
+         cscript keyboard.vbs
 2. Batch Files (random.bat and terminal.bat)
    - Simply double-click to run.
    - Or execute from Command Prompt:
-     random.bat
-     terminal.bat
 
+         random.bat
+         terminal.bat
 Notes
 
 - These scripts are intended for Windows operating systems.
