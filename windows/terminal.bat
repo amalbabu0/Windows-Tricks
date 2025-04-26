@@ -1,3 +1,0 @@
-:loop
-Start
-goto loop
