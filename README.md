@@ -16,17 +16,11 @@ VBScript File (keyboard.vbs)
 - Type: Batch File
 - Purpose: 
   Executes commands randomly or generates random behaviors.
-- Details:
-  - Likely uses the %RANDOM% variable available in the Windows Command Prompt.
-  - Useful for generating unpredictable outputs or for testing random scenarios.
 
 3. terminal.bat
 - Type: Batch File
 - Purpose: 
   Opens a terminal or runs a series of terminal/command prompt commands.
-- Details:
-  - May configure or launch a customized terminal environment.
-  - Could run scripts or commands automatically on launch.
 
 How to Use
 Batch Files (random.bat and terminal.bat)
